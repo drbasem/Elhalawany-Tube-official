@@ -1,11 +1,27 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "notes": "",
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "notes": "مواعيد تشغيل وقفل لشاشات الأماكن العامة، ومحتوى لكل فترة، وإدارة كل الشاشات من الموبايل، وشاشة ساعة وتاريخ وقت الراحة.",
   "tv": "https://drive.google.com/file/d/1noSG6_-QrfPojpEI_T7bWZVBjVEr6ZqM/view?usp=sharing",
   "car": "https://drive.google.com/file/d/1se3cHpg6so1ZK_xHr4Zcv2aAiApPUJvr/view?usp=sharing",
   "featuredChannels": [
-    { "id": "UCVs6pskmJA98TF8lZJBvvpg", "title": "Basem M. ElHalawany" },
-    { "id": "UCw-_Mk7CFpzn9FfwSZrZmkA", "title": "إبداع AI" }
-  ]
+    {
+      "id": "UCVs6pskmJA98TF8lZJBvvpg",
+      "title": "Basem M. ElHalawany"
+    },
+    {
+      "id": "UCw-_Mk7CFpzn9FfwSZrZmkA",
+      "title": "إبداع AI"
+    }
+  ],
+  "backendUrl": "https://script.google.com/macros/s/AKfycbxddtjooaLCcLeB6xzf_a0VAhWLT9jKQ7Ul9Z_Jgq2PDRhv-BQHCxEZD_ydMO3_E35iCQ/exec",
+  "announcement": {
+    "id": "",
+    "title": "",
+    "text": "",
+    "titleEn": "",
+    "textEn": "",
+    "videoId": "",
+    "until": ""
+  }
 }

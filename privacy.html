@@ -42,7 +42,9 @@
   <ul>
     <li><b>On your device only:</b> sign-in tokens (encrypted with Android Keystore), your profiles, favorites, watch history and resume positions, kids-profile settings (allowed channels, daily limit, hours, watch-time log), venue-mode settings, and the app language. This data is excluded from device backups.</li>
     <li><b>In your own Google Drive</b> (only if you signed in): the "continue watching" file described above. You can see it in your Drive and delete it at any time.</li>
-    <li><b>Nowhere else.</b> The app has no server of its own. We do not collect, receive, sell or share your personal information, and we do not use it for advertising.</li>
+    <li><b>Anonymous usage counter:</b> once a day the app sends our small server (a Google Apps Script) a random install number created on the device, the device type (TV or car), the app version, and how many times each feature was used (for example kids profiles, venue mode, phone link). It contains no name, email, Google account, channel, video or watch history, and is used only to count users and see which features are useful.</li>
+    <li><b>Venue screens (only if you use venue mode):</b> the place's display settings (place type, name, scrolling message, playlist links and on/off hours) are kept on our server under a random venue code, so the owner can manage all the place's screens from the phone. The owner's control key is stored only as a one-way hash. Leaving venue mode stops the TV from using it.</li>
+    <li><b>Nothing else.</b> We do not collect, sell or share your personal information, and we do not use it for advertising.</li>
   </ul>
 
   <h2>5. Data shared with Google and YouTube</h2>
@@ -52,7 +54,10 @@
   <p>The car app can use the microphone only when you press the microphone button, to understand voice commands such as "play" or "next". Speech is handled by your device's speech recognition service; ElHalawany Tube does not record, store or send your voice anywhere.</p>
 
   <h2>7. Phone link (TV app)</h2>
-  <p>When you choose "From phone", the TV opens a temporary page on your home network, protected by a one-time code in the QR code, so your phone can send a YouTube link. It closes when the window closes and is not reachable from the internet.</p>
+  <p>When you choose "From phone", the TV opens a temporary page on your home network, protected by a one-time code in the QR code, so your phone can send a YouTube link, a video link, or a video file to play on the TV. A file sent this way is kept only while it plays and is deleted afterwards. The page closes when the window closes and is not reachable from the internet.</p>
+
+  <h2>7b. Messages from the developer</h2>
+  <p>The app may show a short announcement from the developer (for example news about a new version). It is read from the same public settings file used for updates and is shown once; nothing is sent back.</p>
 
   <h2>8. Children</h2>
   <p>Kids profiles are created and controlled by a parent on the device, with a PIN. Their settings and watch-time log stay on the device and are only shown to the parent.</p>
@@ -77,7 +82,9 @@
       <li>صلاحية حساب يوتيوب <b>قراءة فقط</b>: التطبيق مش بيقدر ينشر أو يعلّق أو يعمل لايك أو يغيّر أي حاجة.</li>
       <li>التطبيق بيعمل <b>ملف صغير واحد</b> في درايف بتاعك، فيه آخر فيديو ومكان وقوفك، علشان تكمّل من جهاز لجهاز. وصلاحيته على الملفات اللي هو عملها بس، ومش بيقدر يشوف أي ملف تاني في الدرايف.</li>
       <li>كل البيانات التانية على جهازك بس، ومفاتيح الدخول متشفّرة.</li>
-      <li>مفيش سيرفر بتاعنا، ومش بنجمع أو نبيع أو نشارك أي بيانات.</li>
+      <li>مش بنجمع أو نبيع أو نشارك أي بيانات شخصية.</li>
+      <li>عداد استخدام مجهول: مرة في اليوم التطبيق بيبعت رقم عشوائي للجهاز، ونوعه (تلفزيون/سيارة)، ورقم النسخة، وعدد مرات استخدام كل ميزة. من غير اسم أو إيميل أو حساب أو قنوات أو سجل مشاهدة.</li>
+      <li>شاشات الأماكن العامة: إعدادات العرض بس (اسم المكان والرسالة وقوائم التشغيل والمواعيد) بتتحفظ على سيرفرنا بكود عشوائي علشان صاحب المكان يتحكم في كل الشاشات من الموبايل.</li>
       <li>الميكروفون في تطبيق السيارة بيشتغل بس لما تدوس زرار الميكروفون، والتطبيق مش بيسجّل صوتك ولا بيبعته لأي مكان.</li>
       <li>تقدر تلغي صلاحيات التطبيق في أي وقت من إعدادات حساب جوجل: <a href="https://myaccount.google.com/connections">myaccount.google.com/connections</a></li>
     </ul>
