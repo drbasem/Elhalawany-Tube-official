@@ -34,7 +34,7 @@
 Signing in is optional. Scopes requested:
 
 - `youtube.readonly`: read-only, to list subscriptions and playlists. Nothing on the account can be changed.
-- `drive.appdata`: the app's own hidden Drive folder, for one "continue watching" file.
+- `drive.file`: only files the app creates, for one "continue watching" file. No access to any other Drive file.
 
 Everything else stays on the device. There is no developer server. Full details: [privacy policy](privacy.html).
 
