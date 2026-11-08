@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "notes": "مواعيد تشغيل وقفل لشاشات الأماكن العامة، ومحتوى لكل فترة، وإدارة كل الشاشات من الموبايل، وشاشة ساعة وتاريخ وقت الراحة.",
+  "versionCode": 3,
+  "versionName": "1.1.1",
+  "notes": "التلفزيون: صف بقنواتك، وشريط الوقت لما توقف الفيديو، ومن قد إيه اتنشر كل فيديو، وعرض أكتر من فيديو وصور من الموبايل أو الكمبيوتر كقائمة. السيارة: شاشة رئيسية جديدة بقنواتك ومقترحات بلا نهاية، وتقسيم الشاشة مع الفيديو، وتشغيل أنعم من غير تقطيع.",
   "tv": "https://drive.google.com/file/d/1noSG6_-QrfPojpEI_T7bWZVBjVEr6ZqM/view?usp=sharing",
   "car": "https://drive.google.com/file/d/1se3cHpg6so1ZK_xHr4Zcv2aAiApPUJvr/view?usp=sharing",
   "featuredChannels": [
