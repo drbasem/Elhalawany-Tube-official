@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.4",
-  "notes": "مقترحات أذكى: الجديد وقنواتك المفضلة بالتبادل، وصف «مشابه لقنواتك المفضلة»، والـ Shorts في صف لوحدها. صفحة القناة مش بتطلع فاضية. العربية: شريط تقديم كبير سهل السحب، و«جاري التحميل» واضحة، والفيديو بيبدأ لوحده أول ما تختاره.",
+  "versionCode": 7,
+  "versionName": "1.1.5",
+  "notes": "البحث بقى بكيبورد جوه التطبيق فيه عربي وإنجليزي (زرار ع / EN)، ويشتغل بالريموت واللمس. زرار التحديث في العربية بقى بيلف وهو شغال ويقولك فيه كام فيديو جديد.",
   "tv": "https://drive.google.com/file/d/1noSG6_-QrfPojpEI_T7bWZVBjVEr6ZqM/view?usp=sharing",
   "car": "https://drive.google.com/file/d/1se3cHpg6so1ZK_xHr4Zcv2aAiApPUJvr/view?usp=sharing",
   "featuredChannels": [
